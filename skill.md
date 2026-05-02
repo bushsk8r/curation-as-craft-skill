@@ -88,7 +88,7 @@ Apply curation ops based on analysis results:
 
 Select top 5 for zine/blog by: tier == 'high' → sort by quality_score desc → diversity across clusters.
 
-### Key Heuristics (from Manifesto)
+### Key Heuristics (from essay)
 
 Apply these during Edit to override mechanical op decisions when judgment is needed:
 
