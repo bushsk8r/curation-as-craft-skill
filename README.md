@@ -13,6 +13,7 @@ trying to get to the core of
 why I make things
  
 this is the resulting ai agent skill
+
 experiment with it as a creative partner
 
 # User Guide
