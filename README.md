@@ -1,17 +1,19 @@
 # Curation As Craft Skill
 a creative partner agent 
 
-tldr: started at an existential crisis...ended up with a skill.md 
+**tldr: started at an existential crisis...ended up with a skill.md** 
 
 instead of waiting for ai to replace me
-decided to teach it how 
+I decided to teach it how 
 
-started with an essay about 
-my "creative" practice 
-(aka: why i make things)
- titled curation as craft
+started with an essay titled 
+curation as craft (available in the references folder)
+about my creative practice 
+trying to get to the core of
+why I make things
  
-this is the resulting agent skill
+this is the resulting ai agent skill
+experiment with it as a creative partner
 
 # User Guide
 
