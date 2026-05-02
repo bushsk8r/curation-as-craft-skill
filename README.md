@@ -18,6 +18,8 @@ experiment with it as a creative partner
 
 # User Guide
 
+add the skill.md file into your prompt or into your favorite llm skills folder
+
 ## Activate the skill
 
 Say any of the following:
