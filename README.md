@@ -1,4 +1,4 @@
-# curation-as-craft-skill
+# Curation As Craft Skill
 a creative partner agent 
 
 tldr: started at an existential crisis...ended up with a skill.md 
